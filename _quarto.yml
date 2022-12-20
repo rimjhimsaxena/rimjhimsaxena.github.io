@@ -5,6 +5,7 @@ project:
 website:
   title: "RIMJHIM SAXENA"
   page-footer: "Copyright 2023, Rimjhim Saxena"
+  google-analytics: "G-FP8EWB0450"
   sidebar: 
     tools: 
       - icon: twitter
