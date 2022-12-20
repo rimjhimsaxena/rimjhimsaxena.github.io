@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RIMJHIM SAXENA"
+  sidebar: 
+    tools: 
+      - icon: twitter
+        href: https://twitter.com/rimjhimster
+      - icon: github
+        href: https://github.com/rimjhimsaxena
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rimjhimsaxena/
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  
+
+format:
+  html:
+    theme: 
+      light: zephyr
+      dark: zephyr
+    css: styles.css
+    toc: true
+
+
+editor: visual
+
+

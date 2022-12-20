@@ -1,0 +1,30 @@
+---
+title: ""
+---
+
+## ABOUT
+
+My name is Rimjhim Saxena (Pronounced : *Rim-Jim Sax-éna*)
+
+I am a PhD Candidate in Economics at [University of Colorado, Boulder](https://www.colorado.edu/economics/). I like working at the intersection of Climate + Labor + Development, preferrably with a pour over coffee.
+
+::: columns
+::: {.column width="40%"}
+### Research Interests
+
+-   Environmental Economics
+-   Labor Economics
+-   Climate Change Adaptation
+
+:::
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+![](images/IMG_1651-01.PNG){fig-align="right" width="300"}
+:::
+
+:::
