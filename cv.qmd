@@ -1,5 +1,0 @@
----
-title: "CV"
-resources: 
-  - "docs/images/CV_RimjhimSaxena.pdf"
----

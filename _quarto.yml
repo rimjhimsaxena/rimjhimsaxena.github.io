@@ -6,8 +6,22 @@ website:
   title: "RIMJHIM SAXENA"
   page-footer: "Copyright 2023, Rimjhim Saxena"
   google-analytics: "G-FP8EWB0450"
-  sidebar: 
-    tools: 
+  cookie-consent: true
+  search: 
+    location: navbar
+    type: overlay
+ 
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: docs/images/CV_RimjhimSaxena.pdf
+        text: CV
+        
+    right:
       - icon: twitter
         href: https://twitter.com/rimjhimster
       - icon: github
@@ -17,23 +31,15 @@ website:
       - icon: filetype-pdf
         href: docs/images/CV_RimjhimSaxena.pdf
 
-
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: docs/images/CV_RimjhimSaxena.pdf
-        text: CV
-      
   
 
 format:
   html:
     theme: 
       light: zephyr
-      dark: zephyr
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 
 editor: visual
