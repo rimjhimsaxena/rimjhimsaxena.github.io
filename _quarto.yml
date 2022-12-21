@@ -22,6 +22,8 @@ website:
         text: CV
         
     right:
+      - icon: envelope
+        href: mailto:rimjhim.saxena@colorado.edu
       - icon: twitter
         href: https://twitter.com/rimjhimster
       - icon: github
