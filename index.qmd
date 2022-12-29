@@ -2,7 +2,7 @@
 title: ""
 ---
 
-![](images/banner.png){fig-align="center" width="3000"}
+![](images/banner.png){fig-align="center"}
 
 ## ABOUT
 

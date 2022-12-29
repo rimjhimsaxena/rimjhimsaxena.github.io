@@ -20,6 +20,8 @@ website:
         text: Research
       - href: docs/images/CV_RimjhimSaxena.pdf
         text: CV
+      - href: blog.qmd
+        text: Journal
         
     right:
       - icon: envelope

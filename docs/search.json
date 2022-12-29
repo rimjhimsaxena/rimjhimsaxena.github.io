@@ -61,5 +61,26 @@
     "title": "RIMJHIM SAXENA",
     "section": "ABOUT",
     "text": "ABOUT\nMy name is Rimjhim Saxena (Pronounced : Rim-Jim Sax-éna)\nI am a PhD Candidate in Economics at University of Colorado, Boulder. I like working at the intersection of Climate + Labor + Development, preferably with a good coffee.\n\n\n\nResearch Interests\n\nEnvironmental Economics\nLabor Economics\nClimate Change Adaptation"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Structural Transformation and Climate Change in India\n\n\n\n Climate change is expected to have heterogeneous effect on economic sectors across geographic locations. India is the seventh largest country in area with second largest population in the world, and carries the seventh highest risk to climate change in the world. Assessing potential decisions of economic agents when adapting to climate change is challenging but crucial for policy making. In this paper, I develop a dynamic spatial equilibrium model to quantify economic agents’ response to climate change and estimate its effect on labor reallocation, population displacement, and productivity change for firms. By simulating the model for future policy scenarios, I estimate the aggregate distributional impacts of climate change in terms of trade off between adaptation through sectoral shift and migration."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in progress",
+    "text": "Works in progress\n\nClimate Change, Cricket and Caution\nHeat begets pollution : Estimating the heat-pollution response function in India (with Beia Spiller)\nClimate Change and Mechanization of Agriculture in India (with Bhavya Srivastava)"
   }
 ]
