@@ -4,6 +4,7 @@ project:
 
 website:
   title: "RIMJHIM SAXENA"
+  favicon: images/favicon.png
   page-footer: "Copyright 2023, Rimjhim Saxena"
   google-analytics: "G-FP8EWB0450"
   cookie-consent: true

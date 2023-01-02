@@ -2,6 +2,8 @@
 title: "Research"
 ---
 
+[![Source: Climate Art Project](images/Andreco_Reveals_Lodhi-Art-Fest-2019_PranavGohil-1_WEB_1500_A.jpg)](https://www.climateartproject.com/climate-05-reclaim-air-and-water-delhi/)
+
 ## Working Papers
 
 -   Structural Transformation and Climate Change in India
@@ -20,6 +22,10 @@ title: "Research"
 
 -   Climate Change, Cricket and Caution
 
--   Heat begets pollution : Estimating the heat-pollution response function in India (with Beia Spiller)
+-   Heat begets pollution : Estimating the heat-pollution response function in India (with [Beia Spiller](https://www.rff.org/people/beia-spiller/))
 
 -   Climate Change and Mechanization of Agriculture in India (with Bhavya Srivastava)
+
+## Book Chapters
+
+-   [Understanding the Gender Gap in Education and Employment](https://www.cambridge.org/core/books/abs/colossus/education-understanding-the-gender-gap-in-education-and-employment/163763A3D320223894A3E7F31DFD46D4) Chapter in *Colossus : The anatomy of Delhi ,* edited by Sanjoy Chakravorty and Neelanjan Sircar. Cambridge University Press (2021) (with Deepaboli Chatterjee and Babu Lal)

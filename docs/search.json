@@ -60,7 +60,7 @@
     "href": "index.html#about",
     "title": "RIMJHIM SAXENA",
     "section": "ABOUT",
-    "text": "ABOUT\nMy name is Rimjhim Saxena (Pronounced : Rim-Jim Sax-éna)\nI am a PhD Candidate in Economics at University of Colorado, Boulder. I like working at the intersection of Climate + Labor + Development, preferably with a good coffee.\n\n\n\nResearch Interests\n\nEnvironmental Economics\nLabor Economics\nClimate Change Adaptation"
+    "text": "ABOUT\nMy name is Rimjhim Saxena (Pronounced : Rim-Jim Sax-éna)\nI am a PhD Candidate in Economics at University of Colorado, Boulder. I like working at the intersection of Climate + Labor + Development, preferably with a good coffee.\nBefore starting graduate school, I worked as a Research Assistant at Center for the Advanced Study of India, University of Pennsylvania. I hold a Masters degree in Economics from Boston University, MBA in Finance and Bachelors in Industrial Engineering from Thapar Institute of Engineering and Technology, India (Top 10 engineering schools in India, 997 globally).\n\n\n\nResearch Interests\n\nEnvironmental Economics\nLabor Economics\nClimate Change Adaptation"
   },
   {
     "objectID": "posts.html",
@@ -74,7 +74,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Structural Transformation and Climate Change in India\n\n\n\n Climate change is expected to have heterogeneous effect on economic sectors across geographic locations. India is the seventh largest country in area with second largest population in the world, and carries the seventh highest risk to climate change in the world. Assessing potential decisions of economic agents when adapting to climate change is challenging but crucial for policy making. In this paper, I develop a dynamic spatial equilibrium model to quantify economic agents’ response to climate change and estimate its effect on labor reallocation, population displacement, and productivity change for firms. By simulating the model for future policy scenarios, I estimate the aggregate distributional impacts of climate change in terms of trade off between adaptation through sectoral shift and migration."
+    "text": "Source: Climate Art Project"
   },
   {
     "objectID": "research.html#works-in-progress",
@@ -82,5 +82,19 @@
     "title": "Research",
     "section": "Works in progress",
     "text": "Works in progress\n\nClimate Change, Cricket and Caution\nHeat begets pollution : Estimating the heat-pollution response function in India (with Beia Spiller)\nClimate Change and Mechanization of Agriculture in India (with Bhavya Srivastava)"
+  },
+  {
+    "objectID": "research.html#book-chapters",
+    "href": "research.html#book-chapters",
+    "title": "Research",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nUnderstanding the Gender Gap in Education and Employment Chapter in Colossus : The anatomy of Delhi , edited by Sanjoy Chakravorty and Neelanjan Sircar. Cambridge University Press (2021) (with Deepaboli Chatterjee and Babu Lal)"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nStructural Transformation and Climate Change in India\n\n\n\n Climate change is expected to have heterogeneous effect on economic sectors across geographic locations. India is the seventh largest country in area with second largest population in the world, and carries the seventh highest risk to climate change in the world. Assessing potential decisions of economic agents when adapting to climate change is challenging but crucial for policy making. In this paper, I develop a dynamic spatial equilibrium model to quantify economic agents’ response to climate change and estimate its effect on labor reallocation, population displacement, and productivity change for firms. By simulating the model for future policy scenarios, I estimate the aggregate distributional impacts of climate change in terms of trade off between adaptation through sectoral shift and migration."
   }
 ]
