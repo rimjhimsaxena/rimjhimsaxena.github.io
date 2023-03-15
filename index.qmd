@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 ---
 
 ![](images/banner.png){fig-align="center"}

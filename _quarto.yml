@@ -21,7 +21,7 @@ website:
         text: Research
       - href: docs/images/CV_RimjhimSaxena.pdf
         text: CV
-      - href: blog.qmd
+      - href: posts.qmd
         text: Journal
         
     right:
@@ -45,6 +45,14 @@ format:
       dark: darkly
     css: styles.css
     toc: false
+    tags:
+    - Rimjhim Saxena
+    - GitHub Pages
+    - Economics 
+    - PhD Candidate
+    - Environmental Economics
+    - Economist
+    - Google
 
 
 editor: visual
