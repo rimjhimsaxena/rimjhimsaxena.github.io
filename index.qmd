@@ -17,6 +17,7 @@ This summer you can find me at -
 1.  Front Range Energy Workshop - May 18, Boulder CO
 2.  AERE Summer Conference - June 2, Portland ME
 3.  WEAI Conference - July 2, San Diego CA
+4.  Berkeley/Sloan Summer School in EEE - Aug 13-18, Berkeley CA
 
 ::: columns
 ::: {.column width="40%"}
