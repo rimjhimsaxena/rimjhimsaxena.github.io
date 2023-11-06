@@ -42,7 +42,7 @@ format:
   html:
     theme: 
       light: zephyr
-      dark: darkly
+      dark: cyborg
     css: styles.css
     toc: false
     tags:
