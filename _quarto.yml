@@ -42,7 +42,6 @@ format:
   html:
     theme: 
       light: zephyr
-      dark: cyborg
     css: styles.css
     toc: false
     tags:

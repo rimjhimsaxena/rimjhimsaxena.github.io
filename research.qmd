@@ -35,7 +35,7 @@ format:
 
 <summary>Abstract</summary>
 
-<font size = 2, color ="#717d7e"> The impact of temperature, particularly temperature shocks on, individual worker productivity within collaborative and adversarial setting remains an unexplored area of literature. This paper leverages the sport of international cricket's team oriented dynamics to study the effect of temperature and temperature shocks on individual's response to collaboration and competition. I find that contemporaneous temperature exhibits an inverted U-shaped relationship with individual labor productivity and workers demonstrate adaptability to temperature shocks by increasing collaboration with teammates.</font>
+<font size = 2, color ="#717d7e"> The impact of temperature, particularly temperature shocks on, individual worker productivity within collaborative and adversarial setting remains an unexplored area of literature. This paper leverages the sport of international cricket's team oriented dynamics to study the effect of temperature and temperature shocks on individual's response to collaboration and competition. I find that individual labor productivity exhibits an inverted U-shaped relationship with contemporaneous temperature and workers demonstrate adaptability to temperature shocks by increasing collaboration with teammates.</font>
 
 </details>
 :::
