@@ -1,30 +1,55 @@
 ---
 title: "Research"
+format: 
+  html:
+    page-layout: full
 ---
 
 [![Source: Climate Art Project](images/Andreco_Reveals_Lodhi-Art-Fest-2019_PranavGohil-1_WEB_1500_A.jpg)](https://www.climateartproject.com/climate-05-reclaim-air-and-water-delhi/)
 
 ## Working Papers
 
--   Structural Transformation and Climate Change in India
+<font size = 4.5, color ="#000000"> **Structural Transformation and Climate Change in India**</font>
 
 ::: columns
 ::: {.column width="65%"}
-<font size = 2, color ="#717d7e"> Climate change is expected to have heterogeneous effect on economic sectors and across geographic locations. India is the seventh largest country in area with second largest population and seventh highest risk to climate change in the world, estimating this heterogenous effect directly impacts policy making for a large population. This paper estimates the effect of climate change on sectoral reallocation on economic sectors across India. I develop a multi region dynamic spatial equilibrium model in which economic sectors face region and sector specific climate shock. Locations are linked to each other through trade and migration. Firms face productivity shocks. Workers face a forward looking dynamic decision of where to live and work - they have a choice of adaptation through sectoral reallocation in the same location or migration. I estimate the preference between sectoral reallocation and migration in every region - sector. I also incorporate non homothetic preferences for consumption to emphasize the trade off between food problem and trade in India as the food problem is expected to get accentuated by climate change.</font>
+<details>
+
+<summary>Abstract</summary>
+
+<font size = 2, color ="#717d7e"> Climate change is expected to have heterogeneous effects on economic sectors and across geographic locations. India is primarily an agrarian country with second largest population, seventh largest in area and seventh highest risk to climate change in the world. Estimating heterogeneous effect of Climate change across sectors and genders directly impacts policy making for a large population. I develop a spatial equilibrium model emphasizing the link between climate change, "food problem" and structural transformation and empirically estimate the impact of temperature on labor shares by sector, gender, and migration status. I find that labor share in agriculture increases at extremes of temperature, inhibiting structural transformation. "The food problem" gets exacerbated due to climate change pushing labor into agriculture. While trade can solve this problem, I find that inefficiencies in Indian agricultural market keeps trade from becoming a helpful tool and causes disadaptation to climate change. I also find that women in India do not have access to migration as an adaptation tool but they are able to adapt to heat through sectoral reallocation.</font>
+
+</details>
 :::
 
 ::: {.column width="35%"}
-![](images/aby-zachariah-GsTLiE1xrUg-unsplash.jpg){width="800"}
+![](images/workers_heat.jpg){width="150"}
+:::
+:::
+
+<font size = 4.5, color ="#000000"> **Climate Change, Cricket, and Collaboration: Estimating Labor Productivity Under Temperature Shocks**</font>
+
+::: columns
+::: {.column width="65%"}
+<details>
+
+<summary>Abstract</summary>
+
+<font size = 2, color ="#717d7e"> The impact of temperature, particularly temperature shocks on, individual worker productivity within collaborative and adversarial setting remains an unexplored area of literature. This paper leverages the sport of international cricket's team oriented dynamics to study the effect of temperature and temperature shocks on individual's response to collaboration and competition. I find that contemporaneous temperature exhibits an inverted U-shaped relationship with individual labor productivity and workers demonstrate adaptability to temperature shocks by increasing collaboration with teammates.</font>
+
+</details>
+:::
+
+::: {.column width="35%"}
+![](images/cricket_heat.jpg){width="150"}
 :::
 :::
 
 ## Works in progress
 
--   Climate Change, Cricket and Caution: Estimating labor productivity under temperature shocks
-
 -   Heat begets pollution : Estimating the heat-pollution response function in India (with [Beia Spiller](https://www.rff.org/people/beia-spiller/))
 
--   Climate Change and Mechanization of Agriculture in India (with Bhavya Srivastava)
+-   Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
 
 ## Book Chapters
 
