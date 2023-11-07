@@ -23,7 +23,7 @@ format:
 :::
 
 ::: {.column width="35%"}
-![](images/workers_heat.jpg){width="150"}
+![](images/workers_heat.jpg){width="200"}
 :::
 :::
 
@@ -41,7 +41,7 @@ format:
 :::
 
 ::: {.column width="35%"}
-![](images/cricket_heat.jpg){width="150"}
+![](images/cricket_heat.jpg){width="200"}
 :::
 :::
 
