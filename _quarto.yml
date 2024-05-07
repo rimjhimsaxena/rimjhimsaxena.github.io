@@ -21,6 +21,8 @@ website:
         text: Research
       - href: images/CV_RimjhimSaxena.pdf
         text: CV
+      - href: teaching.qmd
+        text: Teaching
       - href: posts.qmd
         text: Journal
         
