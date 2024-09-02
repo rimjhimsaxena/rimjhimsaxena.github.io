@@ -1,31 +1,36 @@
 ---
-  title: "Teaching"
+title: "Teaching"
+format: 
+  html:
+    mainfont: palatino
+    page-layout: full
 ---
 
 ## Instructor
 
-<font size = 4.5, color ="#000000"> **ECON 2010: Principles of Microeconomics** </font>
+<font size = 4.5, color ="#000000"> **ECON 3535: Natural Resource Economics (50 students)** </font>
+
+-   Fall 2024
+-   [Syllabus](pdfs/Syllabus_ECON3535_F24.pdf)
+
+<font size = 4.5, color ="#000000"> **ECON 2010: Principles of Microeconomics (200 students)** </font>
 
 -   Fall 2022 (Rating 4.69/6 ; Economics Department Average 4.2)
 -   [Syllabus](pdfs/Syllabus_ECON2010_F22.pdf)
 -   [Student Comments](pdfs/student_comments.pdf)
 
-
 ## Teaching Assistant
 
-[Evaluations](pdfs/TA_evaluation.pdf)
+[Evaluations](pdfs/teaching_eval.pdf)
 
 <font size = 4.5, color ="#000000"> **ECON 2010: Principles of Microeconomics** </font>
 
 -   Fall 2019, Fall 2020, Fall 2021, Summer 2022, Spring 2022
 
-
 <font size = 4.5, color ="#000000"> **ECON 2020: Principles of Macroeconomics** </font>
-     
+
 -   Spring 2020, Spring 2023, Fall 2023, Spring 2024
 
-
 <font size = 4.5, color ="#000000"> **ECON 3545: Environmental Economics** </font>
-       
--   Fall 2020, Spring 2021
 
+-   Fall 2020, Spring 2021

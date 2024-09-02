@@ -2,6 +2,7 @@
 title: "Research"
 format: 
   html:
+    mainfont: palatino
     page-layout: full
 ---
 
@@ -17,7 +18,7 @@ format:
 
 <summary>Abstract</summary>
 
-<font size = 2, color ="#717d7e"> Climate change is expected to have heterogeneous effects on economic sectors and across geographic locations. India is primarily an agrarian country with second largest population, seventh largest in area and seventh highest risk to climate change in the world. Estimating heterogeneous effect of Climate change across sectors and genders directly impacts policy making for a large population. I develop a spatial equilibrium model emphasizing the link between climate change, "food problem" and structural transformation and empirically estimate the impact of temperature on labor shares by sector, gender, and migration status. I find that labor share in agriculture increases at extremes of temperature, inhibiting structural transformation. "The food problem" gets exacerbated due to climate change pushing labor into agriculture. While trade can solve this problem, I find that inefficiencies in Indian agricultural market keeps trade from becoming a helpful tool and causes disadaptation to climate change. I also find that women in India do not have access to migration as an adaptation tool but they are able to adapt to heat through sectoral reallocation.</font>
+<font size = 2, color ="#717d7e"> This paper examines how climate change is hindering structural transformation in India and the role of internal trade barriers in it. I combine local temperature effects on productivity, consumption, and labor shares with a static spatial equilibrium model to evaluate the potential for labor reallocation out of agriculture as an adaptation to climate change. I use a novel district-level panel dataset created by sourcing data from diverse sectors of Indian economy. Empirical estimates show that temperature has more pronounced negative impact on agricultural than manufacturing (supply-side effect). I also estimate a negative impact of temperature on household expenditure and as Engel’s law would predict this increases food expenditure of households (demand-side effect). Further analysis shows that higher temperature increases agricultural labor share in India, inhibiting structural transformation. This phenomenon of increased specialization in low productivity agricultural sector in a developing country, like India, to maintain food security is known as “food problem”. Districts in India could mitigate against the adverse effects of declining agricultural productivity through inter-district trade. Using a market access variable created by using development of Indian highways, I find that improved market access does not disrupt the positive relationship between temperature and agricultural labor share. This is primarily due to inefficiencies in Indian agricultural market due to a policy established in 1960s across states in India that restricts agricultural trade across state borders in India. I then calibrate a spatial equilibrium model with internal trade barriers to Indian data. Counterfactual analysis reveals that removing state-level trade barriers in Indian agriculture will increase income by 4.65% on average for each household and decrease agricultural labor share by 0.1pp on average for each district (~ 28.9 million people across India). This paper highlights the role of inefficient market policies in inhibiting adaptation to climate change, further indicating that internal political economy reforms may be as critical as international trade policy in mitigating economic impacts of climate change.</font>
 
 </details>
 :::
@@ -35,7 +36,7 @@ format:
 
 <summary>Abstract</summary>
 
-<font size = 2, color ="#717d7e"> Literature has conclusively established that temperature has negative impact on individual's labor producitvity. However we rarely work in isolation, most jobs require working with peers or against an adversary. This paper provides first estimates of the magnitude of peer and adversarial effect on individual's productivity under heat. Utilizing rich data, institutional details, and team dynamics of the sport of cricket, I find that even though temperature affects individual's productivity negatively, it doesn't have any effect on equilibrium outcomes that are affected by peers and adversaries. If individuals are negatively affected by heat but there's no effect on equilibrium outcome, the only two explanations could be an increased peer effect under heat or a decreased adversarial effect. A further analysis reveals that peer effect increases significantly at temperature above 25C while adversarial effect has no significant difference between games played below 25C and above 25C temperature. These peer effects accrue through complementarity of skill-set among peers which creates opportunity for learning at higher temperature. This finding shows that even when workers are individually affected negatively by temperature, they can adapt in team settings through positive peer effect given complementary skills exist among peers.</font>
+<font size = 2, color ="#717d7e"> Literature has conclusively established that temperature has negative impact on individual's labor productivity. However we rarely work in isolation, most jobs require working with peers or against an adversary. This paper provides first estimates of the magnitude of peer and adversarial effect on individual's productivity under heat. Utilizing rich data, institutional details, and team dynamics of the sport of cricket, I find that even though temperature affects individual's productivity negatively, it doesn't have any effect on equilibrium outcomes that are affected by peers and adversaries. If individuals are negatively affected by heat but there's no effect on equilibrium outcome, the only two explanations could be an increased peer effect under heat or a decreased adversarial effect. A further analysis reveals that peer effect increases significantly at temperature above 25C while adversarial effect has no significant difference between games played below 25C and above 25C temperature. These peer effects accrue through complementarity of skill-set among peers which creates opportunity for learning at higher temperature. This finding shows that even when workers are individually affected negatively by temperature, they can adapt in team settings through positive peer effect given complementary skills exist among peers.</font>
 
 </details>
 :::
@@ -47,9 +48,11 @@ format:
 
 ## Works in progress
 
--   Heat begets pollution : Estimating the heat-pollution response function in India (with [Beia Spiller](https://www.rff.org/people/beia-spiller/))
-
 -   Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
+
+-   Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
+
+-   Energy cost pass through in Indian manufacturing firms (with [Johannes Gálle](https://www.mcc-berlin.net/en/about/team/galle-johannes.html))
 
 ## Book Chapters
 
