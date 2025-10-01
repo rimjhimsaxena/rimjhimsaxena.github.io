@@ -22,7 +22,7 @@ I worked as a Pre-Doctoral Fellow at [Environmental Defense Fund](https://www.ed
 :::
 
 ::: {.column width="30%"}
-![](images/italy_pic.JPG){fig-align="right" width="400"}
+![](images/italy_pic.JPG){fig-align="right" width="300"}
 :::
 ::::::
 
