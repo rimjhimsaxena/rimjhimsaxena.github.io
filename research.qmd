@@ -10,8 +10,7 @@ format:
 
 ## Working Papers
 
-<font size = 4.5, color ="#000000"> **Barriers within Borders: Climate Change, Market Barriers,
-and the Reversal of Structural Transformation**</font> <font size = 4.5, color ="blue">**[DRAFT AVAILABLE ON REQUEST]**</font>
+<font size = 4.5, color ="#000000"> **Barriers within Borders: Climate Change, Market Barriers, and the Reversal of Structural Transformation**</font> <font size = 4.5, color ="blue">**\[DRAFT AVAILABLE ON REQUEST\]**</font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -29,7 +28,7 @@ and the Reversal of Structural Transformation**</font> <font size = 4.5, color =
 :::
 :::::
 
-<font size = 4.5, color ="#000000"> **Stumped by the Sun, Saved by the Side: Estimating the role of peer and adversarial effects in adaptation to heat**</font> <font size = 4.5, color ="blue">**[DRAFT AVAILABLE ON REQUEST]**</font>
+<font size = 4.5, color ="#000000"> **Stumped by the Sun, Saved by the Side: Estimating the role of peer and adversarial effects in adaptation to heat**</font> <font size = 4.5, color ="blue">**\[DRAFT AVAILABLE ON REQUEST\]**</font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -54,7 +53,6 @@ and the Reversal of Structural Transformation**</font> <font size = 4.5, color =
 -   Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
 
 -   Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
-
 
 ## Book Chapters
 
