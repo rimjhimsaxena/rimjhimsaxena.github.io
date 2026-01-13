@@ -10,9 +10,8 @@ format:
 
 ## Working Papers
 
-<font size = 4.5, color ="#000000"> **[Barriers within Borders: Structural Transformation and Climate Change in India](pdfs/JMP_Saxena_BWB.pdf)** **(JOB MARKET PAPER)**</font>
-
-
+<font size = 4.5, color ="#000000"> **Barriers within Borders: Climate Change, Market Barriers,
+and the Reversal of Structural Transformation**</font> <font size = 4.5, color ="blue">**[DRAFT AVAILABLE ON REQUEST]**</font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -30,7 +29,7 @@ format:
 :::
 :::::
 
-<font size = 4.5, color ="#000000"> **[Stumped by the Sun, Saved by the Side: Estimating the role of peer and adversarial effects in adaptation to heat](pdfs/Saxena_cricket.pdf)**</font>
+<font size = 4.5, color ="#000000"> **Stumped by the Sun, Saved by the Side: Estimating the role of peer and adversarial effects in adaptation to heat**</font> <font size = 4.5, color ="blue">**[DRAFT AVAILABLE ON REQUEST]**</font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -50,11 +49,12 @@ format:
 
 ## Works in progress
 
+-   Quantifying the global trade leakage under the EUDR policy (with [Matthieu Stigler](https://matthieustigler.github.io))
+
 -   Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
 
 -   Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
 
--   Energy cost pass through in Indian manufacturing firms (with [Johannes Gálle](https://www.mcc-berlin.net/en/about/team/galle-johannes.html))
 
 ## Book Chapters
 
