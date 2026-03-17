@@ -28,9 +28,7 @@ format:
 :::
 :::::
 
-<font size = 4.5, color ="#000000"> 
-**[Stumped by the Sun, Saved by the Side: How do teams adapt to heat? Evidence on Peer Adaptation](/pdfs/SBS_cricket_march26.pdf)**
-</font>
+<font size = 4.5, color ="#000000"> [**Stumped by the Sun, Saved by the Side: How do teams adapt to heat? Evidence on Peer Adaptation**](/pdfs/SBS_cricket_march26.pdf) </font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -38,7 +36,7 @@ format:
 
 <summary>Abstract</summary>
 
-<font size = 2, color ="#717d7e"> How do teams respond to temperature when individual productivity declines? A large body of literature documents that heat deteriorates individual performance. However, workers rarely work in isolation. Using high-frequency data from international cricket games, this paper examines how heat affects team production. I first document a decline in individual productivity of about 1.46\% - 2.68\% for every degree Celsius increase in temperature, consistent with the literature. In contrast, I find that equilibrium output remains unaffected by heat. To understand this puzzle, I decompose equilibrium outcomes into individual, peer, and adversarial components and introduce a temperature-based split-sample variance decomposition to compare these components across hotter and cooler environments. The results show that the importance of peer interactions increases significantly under heat, while adversarial interactions remain unchanged. Further analysis shows that this adaptation operates through complementarity in skills. Back-of-the-envelope calculation finds that complementary peer interaction compensates about 45\% of the decline in individual productivity.</font>
+<font size = 2, color ="#717d7e"> How do teams respond to temperature when individual productivity declines? A large body of literature documents that heat deteriorates individual performance. However, workers rarely work in isolation. Using high-frequency data from international cricket games, this paper examines how heat affects team production. I first document a decline in individual productivity of about 1.46% - 2.68% for every degree Celsius increase in temperature, consistent with the literature. In contrast, I find that equilibrium output remains unaffected by heat. To understand this puzzle, I decompose equilibrium outcomes into individual, peer, and adversarial components and introduce a temperature-based split-sample variance decomposition to compare these components across hotter and cooler environments. The results show that the importance of peer interactions increases significantly under heat, while adversarial interactions remain unchanged. Further analysis shows that this adaptation operates through complementarity in skills. Back-of-the-envelope calculation finds that complementary peer interaction compensates about 45% of the decline in individual productivity.</font>
 
 </details>
 :::
