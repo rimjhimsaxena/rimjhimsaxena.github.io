@@ -6,12 +6,20 @@ format:
     page-layout: full
 ---
 
-## Instructor
+## Guest Lecturer @ University of Geneva
+
+<font size = 4.5, color ="#000000"> **S412021: Environmental Economics and Climate Change (30 students; Masters level course)** </font>
+
+-   Fall 2025
+-   [Lecture Slides](pdfs/01guest_lecture.pdf)
+
+## Instructor @ CU Boulder
 
 <font size = 4.5, color ="#000000"> **ECON 3535: Natural Resource Economics (50 students)** </font>
 
--   Fall 2024
+-   Fall 2024 (Rating 5.3/6 ; Economics Department Average 4.2)
 -   [Syllabus](pdfs/Syllabus_ECON3535_F24.pdf)
+-   [Student Comments](pdfs/student_comments_nre.pdf)
 
 <font size = 4.5, color ="#000000"> **ECON 2010: Principles of Microeconomics (200 students)** </font>
 
@@ -19,7 +27,7 @@ format:
 -   [Syllabus](pdfs/Syllabus_ECON2010_F22.pdf)
 -   [Student Comments](pdfs/student_comments.pdf)
 
-## Teaching Assistant
+## Teaching Assistant @ CU Boulder
 
 [Evaluations](pdfs/teaching_eval.pdf)
 
