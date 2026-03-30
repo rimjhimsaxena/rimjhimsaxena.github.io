@@ -28,7 +28,7 @@ format:
 :::
 :::::
 
-<font size = 4.5, color ="#000000"> [**Stumped by the Sun, Saved by the Side: How do teams adapt to heat? Evidence on Peer Adaptation**](/pdfs/SBS_cricket_march26.pdf) </font>
+<font size = 4.5, color ="#000000"> [**Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation**](/pdfs/SBS_cricket_march26.pdf) </font> <font size = 1.5, color ="purple">**\[SUBMITTED\]**</font>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -48,7 +48,7 @@ format:
 
 ## Works in progress
 
--  Fragile Flames: Geopolitical Shocks, Fuel Reversion, and Air Quality in India
+-   Fragile Flames: Geopolitical Shocks and Clean Energy Transition
 
 -   Quantifying the global trade leakage under the EUDR policy (with [Matthieu Stigler](https://matthieustigler.github.io))
 
