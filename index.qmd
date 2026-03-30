@@ -8,14 +8,19 @@ format:
 
 ![](images/banner.png){fig-align="center"}
 
-::::::: columns
-:::: {.column width="45%"}
+:::::::::: columns
+::::::: {.column width="45%"}
 ## About
 
-<div class="name-block">
-  <div class="name-en">Rimjhim Saxena</div>
-  <div class="name-sub">Rim-Jim Sax-éna &nbsp;·&nbsp; रिमझिम सक्सेना</div>
-</div>
+::::: name-block
+::: name-en
+Rimjhim Saxena
+:::
+
+::: name-sub
+Rim-Jim Sax-éna  ·  रिमझिम सक्सेना
+:::
+:::::
 
 My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of Economics and Econometrics (IEE) at the Geneva School of Economics and Management (GSEM) at the University of Geneva, Switzerland**. I graduated with my PhD in Economics from the [University of Colorado, Boulder](https://www.colorado.edu/economics/) in May 2025. I like working at the intersection of Climate + Development, preferably with a good coffee.
 
@@ -23,9 +28,11 @@ My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of
 🇮🇳Lucknow [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇺🇸Boston [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇺🇸Boulder [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇨🇭[Geneva]{.current}
 :::
 
+<!-- 
 <a href="/pdfs/research_statement.pdf" class="paper-status jm">RESEARCH STATEMENT</a>
 <a href="/pdfs/teaching_statement.pdf" class="paper-status jm">TEACHING STATEMENT</a>
-::::
+-->
+:::::::
 
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
@@ -34,15 +41,14 @@ My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of
 ::: {.column width="35%"}
 ![](images/napoli_pic.JPG){fig-align="right" width="400"}
 :::
-:::::::
-
+::::::::::
 
 ### Upcoming whereabouts:
 
-1.  [Paris Environmental Economics Workshop](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/)  April 7-8, 2026, Paris, France
-2. [QMUL Economics and Finance Workshop](https://www.qmul.ac.uk/sef/events/conferences/items/call-for-papers---8th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html)  May 21-22, 2026, London, UK
-3.  [2026 International Energy Workshop](https://www.internationalenergyworkshop.org/meetings/iew-2026/)  June 22-24, 2026, Cape Town, South Africa
-4.  [European Association for Labour Economics (EALE) 2026](https://www.ub.edu/eale2026/)  Aug 31-Sept 2, 2026, Barcelona, Spain
+1.  [Paris Environmental Economics Workshop](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) April 7-8, 2026, Paris, France
+2.  [QMUL Economics and Finance Workshop](https://www.qmul.ac.uk/sef/events/conferences/items/call-for-papers---8th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html) May 21-22, 2026, London, UK
+3.  [2026 International Energy Workshop](https://www.internationalenergyworkshop.org/meetings/iew-2026/) June 22-24, 2026, Cape Town, South Africa
+4.  [European Association for Labour Economics (EALE) 2026](https://www.ub.edu/eale2026/) Aug 31-Sept 2, 2026, Barcelona, Spain
 
 ### Research Interests
 
