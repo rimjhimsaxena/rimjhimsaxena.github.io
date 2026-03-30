@@ -28,7 +28,7 @@ website:
         
     right:
       - icon: envelope
-        href: mailto:rimjhim.saxena@colorado.edu
+        href: mailto:rimjhim.saxena@unige.ch
       - icon: twitter
         href: https://twitter.com/rimjhimster
       - icon: github
@@ -50,7 +50,6 @@ format:
     - Rimjhim Saxena
     - GitHub Pages
     - Economics 
-    - PhD Candidate
     - PhD Economics
     - Environmental Economics
     - Labor Economics
@@ -60,6 +59,21 @@ format:
     - Academic
     - Economist
     - Google
+    - Agricultural Economics
+    - Climate Adaptation
+    - Water Economics
+    - Energy Economics
+    - Indian Economy
+    - South Asia
+    - Resource Economics
+    - Trade
+    - Applied Microeconomics
+    - Academic Economist
+    - University of Geneva
+    - University of Colorado Boulder
+    - Boston University
+    - Postdoctoral Researcher
+    - Development Economics 
 
 
 editor: visual
