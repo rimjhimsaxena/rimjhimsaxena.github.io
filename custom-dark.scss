@@ -1,0 +1,355 @@
+/*-- scss:defaults --*/
+
+// ── Dark academia ink base ───────────────────────────────────
+$body-bg:               #0f0e0c;
+$body-color:            #e8e0d0;
+$link-color:            #c9935a;
+
+$navbar-bg:             #0f0e0c;
+$navbar-fg:             #e8e0d0;
+$navbar-hl:             #c9935a;
+
+$footer-bg:             #0f0e0c;
+$footer-fg:             #6b6157;
+
+$border-color:          #2e2a24;
+$code-bg:               #1a1714;
+$code-color:            #c9935a;
+
+$headings-color:        #e8e0d0;
+
+// Typography
+$font-family-base:      'Cormorant Garamond', Georgia, serif;
+$headings-font-family:  'Cormorant Garamond', Georgia, serif;
+$font-size-base:        1.1rem;
+$line-height-base:      1.75;
+$headings-font-weight:  600;
+
+$input-focus-box-shadow:  none;
+$btn-focus-box-shadow:    none;
+
+/*-- scss:rules --*/
+
+// ── Body & page background ───────────────────────────────────
+body {
+  background-color: #0f0e0c !important;
+  color: #e8e0d0 !important;
+}
+
+#quarto-content,
+.quarto-container,
+main,
+.page-columns > div {
+  background-color: #0f0e0c !important;
+}
+
+// ── Navbar ───────────────────────────────────────────────────
+.navbar {
+  background-color: #0f0e0c !important;
+  border-bottom: 0.5px solid #2e2a24 !important;
+}
+
+.navbar-brand {
+  color: #e8e0d0 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #6b6157 !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #c9935a !important;
+}
+
+.navbar-toggler {
+  border-color: #2e2a24 !important;
+}
+
+// ── Location trail ───────────────────────────────────────────
+.location-trail {
+  color: #3a3530;
+}
+
+.location-trail .current {
+  color: #c9935a;
+}
+
+.location-trail .sep {
+  color: #2e2a24;
+  margin: 0 8px;
+}
+
+// ── Devanagari name ──────────────────────────────────────────
+.name-devanagari {
+  color: #c9935a;
+}
+
+// ── Headings ─────────────────────────────────────────────────
+h1, h2, h3, h4, h5, h6 {
+  color: #e8e0d0 !important;
+}
+
+// ── Section rule ─────────────────────────────────────────────
+.section-rule {
+  border-bottom: 0.5px solid #2e2a24;
+}
+
+.section-rule span {
+  color: #6b6157;
+}
+
+.section-rule::after {
+  background: #1e1c19;
+}
+
+// ── Paper entries ────────────────────────────────────────────
+.paper-entry {
+  border-bottom: 0.5px solid #1e1c19;
+}
+
+.paper-entry:last-child {
+  border-bottom: none;
+}
+
+.paper-title {
+  color: #e8e0d0;
+}
+
+.paper-fields {
+  color: #3a3530;
+}
+
+.paper-tag {
+  color: #6b8c6e;
+  border: 0.5px solid #2e4430;
+}
+
+.paper-tag.draft {
+  color: #6b6157;
+  border-color: #2e2a24;
+}
+
+// ── Abstract toggles ─────────────────────────────────────────
+details summary {
+  color: #6b6157;
+}
+
+details summary::before {
+  color: #c9935a;
+}
+
+details p {
+  color: #6b6157;
+  border-left: 2px solid #c9935a;
+}
+
+// ── Tool strip ───────────────────────────────────────────────
+.tool-strip {
+  border-top: 0.5px solid #2e2a24;
+  border-bottom: 0.5px solid #2e2a24;
+}
+
+.tool-chip {
+  color: #3a3530;
+  border-right: 0.5px solid #2e2a24;
+}
+
+.tool-chip:last-child {
+  border-right: none;
+}
+
+.tool-chip.active {
+  color: #c9935a;
+}
+
+// ── Blockquotes ──────────────────────────────────────────────
+blockquote {
+  border-left: 2px solid #c9935a !important;
+  color: #6b6157 !important;
+}
+
+// ── Footer ───────────────────────────────────────────────────
+.nav-footer {
+  background-color: #0f0e0c !important;
+  border-top: 0.5px solid #2e2a24 !important;
+  color: #6b6157 !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 9px !important;
+  letter-spacing: 1px !important;
+}
+
+// ── Tables ───────────────────────────────────────────────────
+table {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.8rem;
+  border-color: #2e2a24 !important;
+  color: #e8e0d0 !important;
+}
+
+thead th {
+  font-size: 8px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6b6157 !important;
+  border-bottom: 1px solid #2e2a24 !important;
+  font-weight: 400;
+}
+
+tbody td {
+  color: #e8e0d0 !important;
+  border-color: #1e1c19 !important;
+}
+
+// ── Dropdown (dark mode toggle menu) ─────────────────────────
+.dropdown-menu {
+  background-color: #1a1714 !important;
+  border-color: #2e2a24 !important;
+}
+
+.dropdown-item {
+  color: #e8e0d0 !important;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+.dropdown-item:hover {
+  background-color: #242018 !important;
+  color: #c9935a !important;
+}
+
+// ── Remove Bootstrap active nav highlight ────────────────────
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  background: transparent !important;
+}
+
+// ── Inline code ──────────────────────────────────────────────
+code {
+  background-color: #1a1714 !important;
+  color: #c9935a !important;
+}
+
+// ── Horizontal rules ─────────────────────────────────────────
+hr {
+  border-color: #2e2a24 !important;
+}
+
+// ── Links ────────────────────────────────────────────────────
+a {
+  color: #c9935a !important;
+}
+
+a:hover {
+  color: #a07040 !important;
+}
+
+.name-block {
+  margin: 8px 0 28px;
+  line-height: 1.3;
+}
+
+.name-en {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.name-sub {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  margin-top: 6px;
+}
+
+.name-en { color: #e8e0d0; }
+.name-sub { color: #6b6157; }
+
+.course-meta {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #e8e0d0;
+}
+
+.paper-title-link {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.paper-title-link a {
+  color: #e8e0d0 !important;
+  text-decoration: underline;
+  text-decoration-color: #3a3530;
+  text-underline-offset: 3px;
+}
+
+.paper-title-link a:hover {
+  color: #c9935a !important;
+}
+
+.paper-status {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 1.5px;
+  color: #6b8c6e;
+  border: 0.5px solid #2e4430;
+  padding: 2px 8px;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.paper-versions {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+  margin-top: 4px;
+  margin-left: 2px;
+}
+
+.paper-versions a { color: #c9935a !important; }
+.paper-versions .sep { color: #3a3530; margin: 0 6px; }
+
+.paper-status.published {
+  color: #c9935a;
+  border-color: #c9935a;
+}
+
+.paper-status.draft {
+  color: #6b6157;
+  border-color: #2e2a24;
+}
+
+.paper-title-link {
+  color: #e8e0d0 !important;
+}
+
+.quarto-about-image, img.about-image {
+  border-radius: 2px;
+  filter: sepia(8%);
+}
+
+.paper-status.doc {
+  color: #6b6157;
+  border-color: #2e2a24;
+  text-decoration: none;
+}
+
+.paper-status.doc:hover {
+  color: #c9935a !important;
+  border-color: #c9935a;
+}
+
+.paper-status.jm {
+  color: #c9935a;
+  border-color: #c9935a;
+  border-width: 1px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.paper-status.jm:hover {
+  background-color: #c9935a !important;
+  color: #0f0e0c !important;
+}

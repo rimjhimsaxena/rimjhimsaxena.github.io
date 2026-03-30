@@ -1,0 +1,295 @@
+/*-- scss:defaults --*/
+
+// ── Warm parchment base ──────────────────────────────────────
+$body-bg:               #f7f3ec;
+$body-color:            #1c1917;
+$link-color:            #c9935a;
+
+$navbar-bg:             #f7f3ec;
+$navbar-fg:             #1c1917;
+$navbar-hl:             #c9935a;
+
+$footer-bg:             #f7f3ec;
+$footer-fg:             #7a6e60;
+
+$border-color:          #c9b99a;
+$code-bg:               #ece5d8;
+$code-color:            #4a3f35;
+
+$headings-color:        #1c1917;
+
+// Typography
+$font-family-base:      'Cormorant Garamond', Georgia, serif;
+$headings-font-family:  'Cormorant Garamond', Georgia, serif;
+$font-size-base:        1.1rem;
+$line-height-base:      1.75;
+$headings-font-weight:  600;
+
+$input-focus-box-shadow:  none;
+$btn-focus-box-shadow:    none;
+
+/*-- scss:rules --*/
+
+// ── Navbar ───────────────────────────────────────────────────
+.navbar {
+  border-bottom: 0.5px solid #c9b99a !important;
+}
+
+.navbar-nav .nav-link {
+  color: #7a6e60 !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #c9935a !important;
+}
+
+// ── Location trail ───────────────────────────────────────────
+.location-trail {
+  color: #a89e90;
+}
+
+.location-trail .current {
+  color: #c9935a;
+}
+
+.location-trail .sep {
+  color: #c9b99a;
+  margin: 0 8px;
+}
+
+// ── Devanagari name ──────────────────────────────────────────
+.name-devanagari {
+  color: #c9935a;
+}
+
+// ── Section rule ─────────────────────────────────────────────
+.section-rule {
+  border-bottom: 0.5px solid #c9b99a;
+}
+
+.section-rule span {
+  color: #7a6e60;
+}
+
+.section-rule::after {
+  background: #ddd4c2;
+}
+
+// ── Paper entries ────────────────────────────────────────────
+.paper-entry {
+  border-bottom: 0.5px solid #e5ddd0;
+}
+
+.paper-entry:last-child {
+  border-bottom: none;
+}
+
+.paper-title {
+  color: #1c1917;
+}
+
+.paper-fields {
+  color: #a89e90;
+}
+
+.paper-tag {
+  color: #4a6e4e;
+  border: 0.5px solid #8aad8e;
+}
+
+.paper-tag.draft {
+  color: #7a6e60;
+  border-color: #c9b99a;
+}
+
+// ── Abstract toggles ─────────────────────────────────────────
+details summary {
+  color: #7a6e60;
+}
+
+details summary::before {
+  color: #c9935a;
+}
+
+details p {
+  color: #7a6e60;
+  border-left: 2px solid #c9935a;
+}
+
+// ── Tool strip ───────────────────────────────────────────────
+.tool-strip {
+  border-top: 0.5px solid #c9b99a;
+  border-bottom: 0.5px solid #c9b99a;
+}
+
+.tool-chip {
+  color: #c9b99a;
+  border-right: 0.5px solid #c9b99a;
+}
+
+.tool-chip:last-child {
+  border-right: none;
+}
+
+.tool-chip.active {
+  color: #c9935a;
+}
+
+// ── Blockquotes ──────────────────────────────────────────────
+blockquote {
+  border-left: 2px solid #c9935a !important;
+  color: #7a6e60 !important;
+}
+
+// ── Footer ───────────────────────────────────────────────────
+.nav-footer {
+  border-top: 0.5px solid #c9b99a !important;
+  font-family: 'Space Mono', monospace !important;
+  font-size: 9px !important;
+  letter-spacing: 1px !important;
+}
+
+// ── Tables ───────────────────────────────────────────────────
+table {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.8rem;
+}
+
+thead th {
+  font-size: 8px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #7a6e60 !important;
+  border-bottom: 1px solid #c9b99a !important;
+  font-weight: 400;
+}
+
+// ── Remove Bootstrap blue flash on active nav ────────────────
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  background: transparent !important;
+}
+
+.dropdown-menu {
+  background-color: #f7f3ec !important;
+  border-color: #c9b99a !important;
+}
+
+.dropdown-item {
+  color: #1c1917 !important;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+.dropdown-item:hover {
+  background-color: #ece5d8 !important;
+  color: #c9935a !important;
+}
+
+.name-block {
+  margin: 8px 0 28px;
+  line-height: 1.3;
+}
+
+.name-en {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.name-sub {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  margin-top: 6px;
+}
+
+.name-en { color: #1c1917; }
+.name-sub { color: #a89e90; }
+
+.course-meta {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1c1917;
+}
+
+.paper-title-link {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1c1917;
+}
+
+.paper-title-link a {
+  color: #1c1917 !important;
+  text-decoration: underline;
+  text-decoration-color: #c9b99a;
+  text-underline-offset: 3px;
+}
+
+.paper-title-link a:hover {
+  color: #c9935a !important;
+}
+
+.paper-status {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 1.5px;
+  color: #6b8c6e;
+  border: 0.5px solid #8aad8e;
+  padding: 2px 8px;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.paper-versions {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+  margin-top: 4px;
+  margin-left: 2px;
+}
+
+.paper-versions a { color: #c9935a !important; }
+.paper-versions .sep { color: #c9b99a; margin: 0 6px; }
+
+.paper-status.published {
+  color: #c9935a;
+  border-color: #c9935a;
+}
+
+.paper-status.draft {
+  color: #7a6e60;
+  border-color: #c9b99a;
+}
+
+.quarto-about-image, img.about-image {
+  border-radius: 2px;
+  filter: sepia(8%);
+}
+
+.paper-status.doc {
+  color: #7a6e60;
+  border-color: #c9b99a;
+  text-decoration: none;
+}
+
+.paper-status.doc:hover {
+  color: #c9935a !important;
+  border-color: #c9935a;
+}
+
+.paper-status.jm {
+  color: #c9935a;
+  border-color: #c9935a;
+  border-width: 1px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.paper-status.jm:hover {
+  background-color: #c9935a !important;
+  color: #f7f3ec !important;
+}

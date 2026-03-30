@@ -1,1 +1,229 @@
-/* css styles */
+/* ============================================================
+   RIMJHIM SAXENA — Personal Site
+   Dark Academia + Edgy + Indian
+   Fonts: Cormorant Garamond (display) + Space Mono (meta)
+   
+   NOTE: This file is shared across both themes.
+   Light/dark switching is handled by Quarto swapping
+   custom-light.scss vs custom-dark.scss entirely.
+   Color values here use SCSS variables injected at build time.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,600;1,300;1,600&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ============================================================
+   BASE TYPOGRAPHY
+   ============================================================ */
+
+body {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+h1 { font-size: 2.8rem; letter-spacing: -0.5px; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.3rem; }
+
+code, pre, .sourceCode {
+  font-family: 'Space Mono', monospace !important;
+  font-size: 0.78em;
+}
+
+/* ============================================================
+   NAVBAR
+   ============================================================ */
+
+.navbar {
+  padding: 16px 36px !important;
+  box-shadow: none !important;
+}
+
+.navbar-brand {
+  font-family: 'Space Mono', monospace !important;
+  font-size: 11px !important;
+  letter-spacing: 3px !important;
+  text-transform: uppercase !important;
+  font-weight: 400;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Space Mono', monospace !important;
+  font-size: 9px !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  padding: 4px 14px !important;
+  transition: color 0.2s;
+}
+
+/* ============================================================
+   LOCATION TRAIL
+   ============================================================ */
+
+.location-trail {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 28px;
+  margin-top: 8px;
+}
+
+/* ============================================================
+   DEVANAGARI NAME
+   ============================================================ */
+
+.name-devanagari {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+/* ============================================================
+   SECTION RULE HEADERS
+   ============================================================ */
+
+.section-rule {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 40px 0 20px;
+  padding-bottom: 14px;
+}
+
+.section-rule span {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.section-rule::after {
+  content: '';
+  flex: 1;
+  height: 0.5px;
+}
+
+/* ============================================================
+   PAPER / RESEARCH ENTRIES
+   ============================================================ */
+
+.paper-entry {
+  padding: 22px 0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 20px;
+  align-items: start;
+}
+
+.paper-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1.35;
+  margin-bottom: 5px;
+}
+
+.paper-fields {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.paper-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  letter-spacing: 1px;
+  padding: 4px 10px;
+  white-space: nowrap;
+  margin-top: 2px;
+  display: inline-block;
+}
+
+/* ============================================================
+   ABSTRACT TOGGLES
+   ============================================================ */
+
+details summary {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 6px 0;
+  list-style: none;
+}
+
+details summary::before {
+  content: '▶ ';
+  font-size: 7px;
+}
+
+details[open] summary::before {
+  content: '▼ ';
+}
+
+details p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  padding: 12px 0 4px;
+  padding-left: 16px;
+  margin-left: 4px;
+}
+
+/* ============================================================
+   TOOL STRIP
+   ============================================================ */
+
+.tool-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 40px 0;
+  padding: 0;
+}
+
+.tool-chip {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 10px 16px;
+}
+
+/* ============================================================
+   BLOCKQUOTES
+   ============================================================ */
+
+blockquote {
+  padding-left: 20px !important;
+  font-style: italic;
+  font-size: 1.1rem;
+  margin: 28px 0;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 768px) {
+  .navbar { padding: 14px 20px !important; }
+  body { font-size: 16px; }
+  h1 { font-size: 2.2rem; }
+  .paper-entry { grid-template-columns: 1fr; }
+  .tool-strip { flex-wrap: wrap; }
+}

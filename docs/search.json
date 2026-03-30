@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "RIMJHIM SAXENA",
+    "title": "Home",
     "section": "",
-    "text": "My name is Rimjhim Saxena (Pronounced : Rim-Jim Sax-éna)\nI am a PhD Candidate in Economics at University of Colorado, Boulder. I like working at the intersection of Climate + Labor + Development, preferably with a good coffee.\n\n\n\n\n\nEnvironmental Economics\nLabor Economics\nClimate Change Adaptation"
+    "text": "RESEARCH STATEMENT TEACHING STATEMENT"
   },
   {
     "objectID": "cv.html",
@@ -59,8 +59,8 @@
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Home",
-    "section": "ABOUT",
-    "text": "ABOUT\nMy name is Rimjhim Saxena (Pronounced : Rim-Jim Sax-éna). I am a Researcher at the Institute of Economics and Econometrics (IEE) at the Geneva School of Economics and Management (GSEM) at the University of Geneva, Switzerland. I graduated with my PhD in Economics from the University of Colorado, Boulder in May 2025. I like working at the intersection of Climate + Labor + Development, preferably with a good coffee.\n\nUpcoming whereabouts:\n\nParis Environmental Economics Workshop - April 7-8, 2026, Paris, France\n2026 International Energy Workshop - June 22-24, 2026, Cape Town, South Africa\nEuropean Association for Labour Economics (EALE) 2026 - Aug 31-Sept 2, 2026, Barcelona, Spain"
+    "section": "About",
+    "text": "About\n\n\nRimjhim Saxena\n\n\nRim-Jim Sax-éna  ·  रिमझिम सक्सेना\n\n\nMy name is Rimjhim Saxena . I am a Postdoctoral Researcher at the Institute of Economics and Econometrics (IEE) at the Geneva School of Economics and Management (GSEM) at the University of Geneva, Switzerland. I graduated with my PhD in Economics from the University of Colorado, Boulder in May 2025. I like working at the intersection of Climate + Development, preferably with a good coffee.\n\n🇮🇳Lucknow · 🇺🇸Boston · 🇺🇸Boulder · 🇨🇭Geneva\n\nRESEARCH STATEMENT TEACHING STATEMENT"
   },
   {
     "objectID": "posts.html",
@@ -95,14 +95,14 @@
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation [DRAFT AVAILABLE ON REQUEST]\n\n\n\n\nAbstract\n\n This paper examines how climate change is hindering structural transformation in India and the role of internal trade barriers in it. I combine local temperature effects on productivity, consumption, and labor shares with a static spatial equilibrium model to evaluate the potential for labor reallocation out of agriculture as an adaptation to climate change. My empirical findings show that temperature has a more negative impact on agricultural productivity than on manufacturing (supply-side effect), and household expenditure on food increases as incomes fall, consistent with Engel’s law (demand-side effect). Rising temperatures also increase the agricultural labor share, hindering structural transformation. Districts in India could mitigate against the adverse effects of declining agricultural productivity through inter-district trade. Using a market access variable created by using development of Indian highways, I find that improved market access does not disrupt the positive relationship between temperature and agricultural labor share. I find that trade barriers reduce spatial competition among buyers and traps labor in low-productivity agriculture. I then calibrate a spatial equilibrium model with internal trade barriers to Indian data. Counterfactual analysis reveals that removing state-level trade barriers in Indian agriculture will increase income by 4.65% on average for each household and decrease agricultural labor share by 0.1pp on average for each district (~ 28.9 million people across India).\n\n\n\n\n\n Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation  [SUBMITTED]\n\n\n\n\nAbstract\n\n How do teams respond to temperature when individual productivity declines? A large body of literature documents that heat deteriorates individual performance. However, workers rarely work in isolation. Using high-frequency data from international cricket games, this paper examines how heat affects team production. I first document a decline in individual productivity of about 1.46% - 2.68% for every degree Celsius increase in temperature, consistent with the literature. In contrast, I find that equilibrium output remains unaffected by heat. To understand this puzzle, I decompose equilibrium outcomes into individual, peer, and adversarial components and introduce a temperature-based split-sample variance decomposition to compare these components across hotter and cooler environments. The results show that the importance of peer interactions increases significantly under heat, while adversarial interactions remain unchanged. Further analysis shows that this adaptation operates through complementarity in skills. Back-of-the-envelope calculation finds that complementary peer interaction compensates about 45% of the decline in individual productivity."
+    "text": "Working Papers\nBarriers within Borders: Climate Change, Market Barriers, and Structural Transformation DRAFT ON REQUEST\n\n\n\n\nAbstract\n\n This paper examines how climate change is hindering structural transformation in India and the role of internal trade barriers in it. I combine local temperature effects on productivity, consumption, and labor shares with a static spatial equilibrium model to evaluate the potential for labor reallocation out of agriculture as an adaptation to climate change. My empirical findings show that temperature has a more negative impact on agricultural productivity than on manufacturing (supply-side effect), and household expenditure on food increases as incomes fall, consistent with Engel’s law (demand-side effect). Rising temperatures also increase the agricultural labor share, hindering structural transformation. Districts in India could mitigate against the adverse effects of declining agricultural productivity through inter-district trade. Using a market access variable created by using development of Indian highways, I find that improved market access does not disrupt the positive relationship between temperature and agricultural labor share. I find that trade barriers reduce spatial competition among buyers and traps labor in low-productivity agriculture. I then calibrate a spatial equilibrium model with internal trade barriers to Indian data. Counterfactual analysis reveals that removing state-level trade barriers in Indian agriculture will increase income by 4.65% on average for each household and decrease agricultural labor share by 0.1pp on average for each district (~ 28.9 million people across India).\n\n\n\n\n\nStumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation SUBMITTED\n\n\n\n\nAbstract\n\n How do teams respond to temperature when individual productivity declines? A large body of literature documents that heat deteriorates individual performance. However, workers rarely work in isolation. Using high-frequency data from international cricket games, this paper examines how heat affects team production. I first document a decline in individual productivity of about 1.46% - 2.68% for every degree Celsius increase in temperature, consistent with the literature. In contrast, I find that equilibrium output remains unaffected by heat. To understand this puzzle, I decompose equilibrium outcomes into individual, peer, and adversarial components and introduce a temperature-based split-sample variance decomposition to compare these components across hotter and cooler environments. The results show that the importance of peer interactions increases significantly under heat, while adversarial interactions remain unchanged. Further analysis shows that this adaptation operates through complementarity in skills. Back-of-the-envelope calculation finds that complementary peer interaction compensates about 45% of the decline in individual productivity."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "S412021: Environmental Economics and Climate Change (30 students; Masters level course) \n\nFall 2025\nLecture Slides"
+    "text": "S412021: Environmental Economics and Climate Change (30 students; Masters level course)\n\nFall 2025\nLecture Slides"
   },
   {
     "objectID": "teaching.html#instructor",
@@ -130,20 +130,20 @@
     "href": "teaching.html#guest-lecturer-university-of-geneva",
     "title": "Teaching",
     "section": "",
-    "text": "S412021: Environmental Economics and Climate Change (30 students; Masters level course) \n\nFall 2025\nLecture Slides"
+    "text": "S412021: Environmental Economics and Climate Change (30 students; Masters level course)\n\nFall 2025\nLecture Slides"
   },
   {
     "objectID": "teaching.html#instructor-cu-boulder",
     "href": "teaching.html#instructor-cu-boulder",
     "title": "Teaching",
     "section": "Instructor @ CU Boulder",
-    "text": "Instructor @ CU Boulder\n ECON 3535: Natural Resource Economics (50 students) \n\nFall 2024 (Rating 5.3/6 ; Economics Department Average 4.2)\nSyllabus\nStudent Comments\n\n ECON 2010: Principles of Microeconomics (200 students) \n\nFall 2022 (Rating 4.69/6 ; Economics Department Average 4.2)\nSyllabus\nStudent Comments"
+    "text": "Instructor @ CU Boulder\nS412021: ECON 3535: Natural Resource Economics (50 students)\n\nFall 2024 (Rating 5.3/6 ; Economics Department Average 4.2)\nSyllabus\nStudent Comments\n\nECON 2010: Principles of Microeconomics (200 students)\n\nFall 2022 (Rating 4.69/6 ; Economics Department Average 4.2)\nSyllabus\nStudent Comments"
   },
   {
     "objectID": "teaching.html#teaching-assistant-cu-boulder",
     "href": "teaching.html#teaching-assistant-cu-boulder",
     "title": "Teaching",
     "section": "Teaching Assistant @ CU Boulder",
-    "text": "Teaching Assistant @ CU Boulder\nEvaluations\n ECON 2010: Principles of Microeconomics \n\nFall 2019, Fall 2020, Fall 2021, Summer 2022, Spring 2022\n\n ECON 2020: Principles of Macroeconomics \n\nSpring 2020, Spring 2023, Fall 2023, Spring 2024\n\n ECON 3545: Environmental Economics \n\nFall 2020, Spring 2021"
+    "text": "Teaching Assistant @ CU Boulder\nEvaluations\nECON 2010: Principles of Microeconomics - Fall 2019, Fall 2020, Fall 2021, Summer 2022, Spring 2022\nECON 2020: Principles of Macroeconomics\n\nSpring 2020, Spring 2023, Fall 2023, Spring 2024\n\nECON 3545: Environmental Economics\n\nFall 2020, Spring 2021"
   }
 ]

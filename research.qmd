@@ -10,7 +10,7 @@ format:
 
 ## Working Papers
 
-<font size = 4.5, color ="#000000"> **Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation**</font> <font size = 1, color ="blue">**\[DRAFT AVAILABLE ON REQUEST\]**</font>
+<span class="paper-title-link">Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation</span> <span class="paper-status draft">DRAFT ON REQUEST</span>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -28,7 +28,9 @@ format:
 :::
 :::::
 
-<font size = 4.5, color ="#000000"> [**Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation**](/pdfs/SBS_cricket_march26.pdf) </font> <font size = 1.5, color ="purple">**\[SUBMITTED\]**</font>
+
+<span class="paper-title-link">[Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation](/pdfs/SBS_cricket_march26.pdf)</span> <span class="paper-status">SUBMITTED</span>
+
 
 ::::: columns
 ::: {.column width="65%"}

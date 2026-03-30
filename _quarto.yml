@@ -5,15 +5,16 @@ project:
 website:
   title: "RIMJHIM SAXENA"
   favicon: images/favicon.png
-  page-footer: "Copyright 2023, Rimjhim Saxena"
+  page-footer: "Copyright 2024, Rimjhim Saxena"
   google-analytics: "G-FP8EWB0450"
   cookie-consent: true
-  search: 
+
+  search:
     location: navbar
     type: overlay
- 
 
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: HOME
@@ -25,7 +26,6 @@ website:
         text: TEACHING
       - href: posts.qmd
         text: JOURNAL
-        
     right:
       - icon: envelope
         href: mailto:rimjhim.saxena@unige.ch
@@ -38,44 +38,34 @@ website:
       - icon: filetype-pdf
         href: images/rimjhimsaxena_CV.pdf
 
-  
+  open-graph: true
+  twitter-card:
+    creator: "@rimjhimster"
+    card-style: summary_large_image
 
 format:
   html:
-    theme: 
-      light: zephyr
+    theme:
+      light: [flatly, custom-light.scss]
+      dark:  [darkly, custom-dark.scss]
     css: styles.css
     toc: false
+    smooth-scroll: true
     tags:
-    - Rimjhim Saxena
-    - GitHub Pages
-    - Economics 
-    - PhD Economics
-    - Environmental Economics
-    - Labor Economics
-    - Sustainable Development
-    - Climate Change
-    - Climate Change Economist
-    - Academic
-    - Economist
-    - Google
-    - Agricultural Economics
-    - Climate Adaptation
-    - Water Economics
-    - Energy Economics
-    - Indian Economy
-    - South Asia
-    - Resource Economics
-    - Trade
-    - Applied Microeconomics
-    - Academic Economist
-    - University of Geneva
-    - University of Colorado Boulder
-    - Boston University
-    - Postdoctoral Researcher
-    - Development Economics 
-
+      - Rimjhim Saxena
+      - रिमझिम सक्सेना
+      - Postdoctoral Researcher
+      - Development Economics
+      - Environmental Economics
+      - Labor Economics
+      - Agricultural Economics
+      - Climate Adaptation
+      - Water Economics
+      - Energy Economics
+      - Resource Economics
+      - Applied Microeconomics
+      - Indian Economy
+      - South Asia
+      - University of Geneva
 
 editor: visual
-
-
