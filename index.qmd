@@ -49,7 +49,7 @@ My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of
 
 1.  [Paris Environmental Economics Workshop](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) April 7-8, 2026, Paris, France
 2.  [AERE \@ OSWEET](https://www.aere.org/osweet-paper-sessions) May 8, 2026, Virtual
-3.  [Spatial Economics of Environmental Change Workshop](https://www.sciencespo.fr/department-economics/events/workshop-on-spatial-economics-of-environmental-change/), June 26, 2026, Paris, France <span class="paper-status submitted">INVITED GUEST SPEAKER</span>
+3.  [Spatial Economics of Environmental Change Workshop](https://www.sciencespo.fr/department-economics/events/workshop-on-spatial-economics-of-environmental-change/), June 26, 2026, Paris, France <span class="paper-status invited">INVITED GUEST SPEAKER</span>
 4.  [19th Biennial EACES Conference](https://eaces.eu/wp-content/uploads/2026/04/CFP_EACES_2026_Barcelona-Extension-Deadline.pdf) July 16-18, Barcelona, Spain
 5.  [European Association for Labour Economics (EALE) 2026](https://www.ub.edu/eale2026/) Aug 31-Sept 2, 2026, Barcelona, Spain
 
