@@ -10,7 +10,7 @@ format:
 
 ## Working Papers
 
-<span class="paper-title-link">Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation</span> <span class="paper-status draft">DRAFT ON REQUEST</span>
+[Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation]{.paper-title-link} [DRAFT ON REQUEST]{.paper-status .draft}
 
 ::::: columns
 ::: {.column width="65%"}
@@ -28,9 +28,13 @@ format:
 :::
 :::::
 
+[Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation]{.paper-title-link} [SUBMITTED]{.paper-status .submitted}
 
-<span class="paper-title-link">[Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation](/pdfs/SBS_cricket_march26.pdf)</span> <span class="paper-status">SUBMITTED</span>
-
+<div class="paper-versions">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6516018">SSRN</a>
+  <span class="sep">·</span>
+  <a href="/pdfs/SBS_cricket_aug26.pdf">Working Paper</a>
+</div>
 
 ::::: columns
 ::: {.column width="65%"}
@@ -38,7 +42,7 @@ format:
 
 <summary>Abstract</summary>
 
-<font size = 2, color ="#717d7e"> How do teams respond to temperature when individual productivity declines? A large body of literature documents that heat deteriorates individual performance. However, workers rarely work in isolation. Using high-frequency data from international cricket games, this paper examines how heat affects team production. I first document a decline in individual productivity of about 1.46% - 2.68% for every degree Celsius increase in temperature, consistent with the literature. In contrast, I find that equilibrium output remains unaffected by heat. To understand this puzzle, I decompose equilibrium outcomes into individual, peer, and adversarial components and introduce a temperature-based split-sample variance decomposition to compare these components across hotter and cooler environments. The results show that the importance of peer interactions increases significantly under heat, while adversarial interactions remain unchanged. Further analysis shows that this adaptation operates through complementarity in skills. Back-of-the-envelope calculation finds that complementary peer interaction compensates about 45% of the decline in individual productivity.</font>
+<font size = 2, color ="#717d7e"> How do teams respond to temperature when individual productivity declines? Using high-frequency data from international cricket, I examine how heat affects team production. Individual productivity declines by 1.46%–2.68% per degree Celsius, yet equilibrium output, jointly determined by individual effort, peer coordination, and adversarial pressure, remains unaffected. Decomposing equilibrium output into individual, peer, and adversarial components, I find that peer interactions become significantly more important under heat while adversarial interactions remain unchanged, indicating that peers, not weaker opponents, offset the individual decline. This adaptation is driven by complementarity in skills among peers.</font>
 
 </details>
 :::
@@ -50,14 +54,14 @@ format:
 
 ## Works in progress
 
--   Fragile Flames: Geopolitical Shocks and Clean Energy Transition
+- Fragile Flames: Geopolitical Shocks and Clean Energy Transition
 
--   Quantifying the global trade leakage under the EUDR policy (with [Matthieu Stigler](https://matthieustigler.github.io))
+- Local Impacts of Global Policies: Deforestation and the European Union Deforestation Regulation  (with [Matthieu Stigler](https://matthieustigler.github.io) and [Sabine Stillger](https://sites.google.com/view/sabinestillger/home))
 
--   Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
+- Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
 
--   Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
+- Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
 
 ## Book Chapters
 
--   [Understanding the Gender Gap in Education and Employment](https://www.cambridge.org/core/books/abs/colossus/education-understanding-the-gender-gap-in-education-and-employment/163763A3D320223894A3E7F31DFD46D4) Chapter in *Colossus : The anatomy of Delhi ,* edited by Sanjoy Chakravorty and Neelanjan Sircar. Cambridge University Press (2021) (with Deepaboli Chatterjee and Babu Lal)
+- [Understanding the Gender Gap in Education and Employment](https://www.cambridge.org/core/books/abs/colossus/education-understanding-the-gender-gap-in-education-and-employment/163763A3D320223894A3E7F31DFD46D4) Chapter in *Colossus : The anatomy of Delhi ,* edited by Sanjoy Chakravorty and Neelanjan Sircar. Cambridge University Press (2021) (with Deepaboli Chatterjee and Babu Lal)
