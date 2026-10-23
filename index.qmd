@@ -9,7 +9,7 @@ format:
 ![](images/banner.png){fig-align="center"}
 
 :::::::::: columns
-::::::: {.column width="45%"}
+::::::: {.column width="50%"}
 ## About
 
 ::::: name-block
@@ -41,24 +41,23 @@ My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of
 :::
 
 ::: {.column width="35%"}
-![](images/napoli_pic.JPG){fig-align="right" width="400"}
+![](images/SAXENA_HD.jpg){fig-align="right" width="1000"}
 :::
 ::::::::::
 
 ### Upcoming whereabouts:
 
-1. [Seminar, UC Dublin Economics](https://www.ucd.ie/economics/research/researchseminars/) Oct 19, Dublin, Ireland <span class="paper-status invited">INVITED</span>
+1.  [Seminar, UC Dublin Economics](https://www.ucd.ie/economics/research/researchseminars/) Oct 19, Dublin, Ireland [INVITED]{.paper-status .invited}
 
-2. [4th CERIS Workshop, University of Galway](https://www.universityofgalway.ie/ceris/annualworkshop/) Oct 14-15, Galway, Ireland
+2.  [4th CERIS Workshop, University of Galway](https://www.universityofgalway.ie/ceris/annualworkshop/) Oct 14-15, Galway, Ireland
 
 3.  [European Association for Labour Economics (EALE) 2026](https://www.ub.edu/eale2026/) Aug 31-Sept 2, 2026, Barcelona, Spain
 
-4.  [Spatial Economics of Environmental Change Workshop](https://www.sciencespo.fr/department-economics/events/workshop-on-spatial-economics-of-environmental-change/), June 26, 2026, Paris, France <span class="paper-status invited">INVITED GUEST SPEAKER</span>
+4.  [Spatial Economics of Environmental Change Workshop](https://www.sciencespo.fr/department-economics/events/workshop-on-spatial-economics-of-environmental-change/), June 26, 2026, Paris, France [INVITED GUEST SPEAKER]{.paper-status .invited}
 
 5.  [Paris Environmental Economics Workshop](https://www.parisschoolofeconomics.eu/en/events/paris-environmental-economics-workshop/) April 7-8, 2026, Paris, France
 
 6.  [AERE \@ OSWEET](https://www.aere.org/osweet-paper-sessions) May 8, 2026, Virtual
-
 
 ### Research Interests
 
