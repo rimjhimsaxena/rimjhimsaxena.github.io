@@ -10,7 +10,34 @@ format:
 
 ## Working Papers
 
-[Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation]{.paper-title-link} [DRAFT ON REQUEST]{.paper-status .draft}
+[Fuel vs. Water: Is Ethanol Renewable?]{.paper-title-link} [JOB MARKET PAPER]{.paper-status .jm}
+
+::: paper-versions
+<a href="/pdfs/Saxena_ethanol_JMP.pdf">Working Paper</a>
+:::
+
+::::: columns
+::: {.column width="65%"}
+<details>
+
+<summary>Abstract</summary>
+
+<font size = 2, color ="#717d7e"> Is ethanol a renewable resource? Renewability is contingent on ethanol's feedstock production to not be dependent on non-renewable resources, such as unpriced groundwater. I study India's ethanol mandate, which reached a 10% blend in 2022 and 20% blend in 2025 from 1.5% in 2014, using water-intensive feedstock crops such as sugarcane, rice, maize, and wheat. Using a shift-share design, I find that mandate exposure shifts cultivation towards water-intensive feedstock crops, and that a one standard deviation increase in mandate exposure reduces groundwater levels by 11.34 cm. Farmers receive electricity at zero marginal cost which erodes the scarcity value of water, but states impose electricity ration in number of hours. I find that a tight ration gates mandate's effect on groundwater, however the effect rises in hours of electricity supply. How much the mandate reaches farmers depends on the ethanol distillery market structure they face. I compile a new dataset of ethanol distillery locations, entry dates, capacity, and feedstock used, across India. I use this data to define local market structure. I find that moving a district from monopsony to competition increases mandate-driven depletion by 3.33 cm.  Who captures the resulting unpriced-groundwater subsidy? the farmer or the distillery, depends on market structure, catchment feedstock saturation, and under government-administered procurement, on a guaranteed minimum margin paid to the distillery. Translating these results into district-level renewability status, I find the mandate tips eleven districts from renewable into non-renewable groundwater status. Ethanol is not a renewable resource as currently produced in India. A renewable fuel mandate cannot be designed or evaluated as a standalone policy without pairing it with water and electricity pricing reform in a second-best world.</font>
+
+</details>
+:::
+
+::: {.column width="35%"}
+![](images/img-water.jpg){width="200"}
+:::
+:::::
+
+
+[Barriers within Borders: Climate Change, Market Barriers, and Structural Transformation]{.paper-title-link}
+
+::: paper-versions
+<a href="/pdfs/Saxena_BWB.pdf">Working Paper</a>
+:::
 
 ::::: columns
 ::: {.column width="65%"}
@@ -30,11 +57,9 @@ format:
 
 [Stumped by the Sun, Saved by the Side: How Do Teams Adapt to Heat? Evidence on Peer Adaptation]{.paper-title-link} [SUBMITTED]{.paper-status .submitted}
 
-<div class="paper-versions">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6516018">SSRN</a>
-  <span class="sep">·</span>
-  <a href="/pdfs/SBS_cricket_aug26.pdf">Working Paper</a>
-</div>
+::: paper-versions
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6516018">SSRN</a> [·]{.sep} <a href="/pdfs/SBS_cricket_aug26.pdf">Working Paper</a>
+:::
 
 ::::: columns
 ::: {.column width="65%"}
@@ -54,11 +79,12 @@ format:
 
 ## Works in progress
 
+- Local Impacts of Global Policies: Deforestation and the European Union Deforestation Regulation (EUDR) (with [Matthieu Stigler](https://matthieustigler.github.io) and [Sabine Stillger](https://sites.google.com/view/sabinestillger/home))
+
 - Fragile Flames: Geopolitical Shocks and Clean Energy Transition
 
-- Local Impacts of Global Policies: Deforestation and the European Union Deforestation Regulation  (with [Matthieu Stigler](https://matthieustigler.github.io) and [Sabine Stillger](https://sites.google.com/view/sabinestillger/home))
+- Misallocation of Water and Crops: Water Rights, Market Distortions, and Trade Barriers in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com) and [Elizabeth Sorensen Montoya](https://www.elizabethsorensenmontoya.com))
 
-- Climate Change and Mechanization of Agriculture in India (with [Bhavya Srivastava](https://www.bhavyasrivastava.com))
 
 - Climate Change and Informal Insurance Networks (with [Matthew Gordon](https://sites.google.com/view/mdgordon/home))
 

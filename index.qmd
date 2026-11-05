@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 format: 
   html:
     mainfont: palatino
@@ -10,30 +10,38 @@ format:
 
 :::::::::: columns
 ::::::: {.column width="50%"}
-## About
 
 ::::: name-block
 ::: name-en
 Rimjhim Saxena
 :::
-
 ::: name-sub
 Rim-Jim Sax-éna  ·  रिमझिम सक्सेना
 :::
 :::::
-
-My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the Institute of Economics and Econometrics (IEE) at the Geneva School of Economics and Management (GSEM) at the University of Geneva, Switzerland**. I graduated with my PhD in Economics from the [University of Colorado, Boulder](https://www.colorado.edu/economics/) in May 2025. I like working at the intersection of Climate + Development, preferably with a good coffee.
+My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the University of Geneva, Switzerland (GSEM)**. I graduated with my PhD in Economics from the [University of Colorado, Boulder](https://www.colorado.edu/economics/) in 2025. I like working at the intersection of Environment + Development, preferably with a good coffee.
 
 ::: location-trail
 🇮🇳Lucknow [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇺🇸Boston [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇺🇸Boulder [·]{style="margin: 0 8px; color: var(--rs-border)"} 🇨🇭[Geneva]{.current}
 :::
 
+---
+
+### 📢 News
+
+<p style="font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; font-weight: 600; color: inherit; margin: 8px 0 16px;">
+  I am on the academic job market 2026–27.
+</p>
+
 ```{=html}
-<!-- 
-<a href="/pdfs/research_statement.pdf" class="paper-status jm">RESEARCH STATEMENT</a>
-<a href="/pdfs/teaching_statement.pdf" class="paper-status jm">TEACHING STATEMENT</a>
--->
+<a href="/pdfs/Saxena_CV.pdf" class="paper-status jm">CV</a>
+<a href="/pdfs/Saxena_ethanol_JMP.pdf" class="paper-status jm">JMP</a>
+<a href="/pdfs/Saxena_research_statement.pdf" class="paper-status jm">RESEARCH STATEMENT</a>
 ```
+
+---
+
+
 :::::::
 
 ::: {.column width="10%"}
