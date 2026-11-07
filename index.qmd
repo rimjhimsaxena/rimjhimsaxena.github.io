@@ -29,9 +29,11 @@ My name is Rimjhim Saxena . I am a **Postdoctoral Researcher at the University o
 
 ### 📢 News
 
+```{=html}
 <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; font-weight: 600; color: inherit; margin: 8px 0 16px;">
   I am on the academic job market 2026–27.
 </p>
+```
 
 ```{=html}
 <a href="/pdfs/Saxena_CV.pdf" class="paper-status jm">CV</a>
