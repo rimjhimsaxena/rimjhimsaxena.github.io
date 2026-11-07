@@ -240,6 +240,19 @@ cookieconsent.run({
 <li>Development Economics</li>
 <li>Climate Change Adaptation</li>
 </ul>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('a[href*=".pdf"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      gtag('event', 'pdf_click', {
+        'event_category': 'Job Market',
+        'event_label': this.getAttribute('href'),
+        'value': 1
+      });
+    });
+  });
+});
+</script>
 
 
 </section>
