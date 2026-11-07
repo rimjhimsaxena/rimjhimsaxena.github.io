@@ -51,6 +51,7 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
+    include-after-body: _includes/pdf-tracking.js
     tags:
       - Rimjhim Saxena
       - रिमझिम सक्सेना
