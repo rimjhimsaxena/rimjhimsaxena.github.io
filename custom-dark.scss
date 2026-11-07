@@ -358,3 +358,17 @@ a:hover {
   color: #c9935a;
   border-color: #c9935a;
 }
+
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column !important;
+  }
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  /* hide the gap column on mobile */
+  .columns > .column:nth-child(2) {
+    display: none !important;
+  }
+}s
